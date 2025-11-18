@@ -1,2 +1,8 @@
-# Sostenibilit-Accessibile---Project-Work
-Project Work per percorso di Laurea in "Informatica per le aziende digitali". 
+# Sostenibilità-Accessibile---Project-Work
+Project Work per percorso di Laurea in "Informatica per le aziende digitali" - 2025
+
+Il presente progetto è stato creato per il percorso di Laurea in "Informatica per le aziende digitali". 
+A tal proposito si fa presente che NON si ha alcun contatto con l'azienda in questione (Brembo Group) e pertanto i loghi, le immagini
+e il marchio, sono proprietà dei legittimi possessori. Proprio per questo motivo si ribadisce come unico fine quello puramente didattico.
+
+Created by: Marco TROTTA
